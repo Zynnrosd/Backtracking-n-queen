@@ -8,7 +8,7 @@ Program ini adalah implementasi algoritma Backtracking untuk menyelesaikan N-Que
 2. Buka terminal atau *command prompt*, lalu jalankan perintah berikut:
    ```bash
    python n_queens_backtracking.py
-Masukkan ukuran papan/jumlah Queen saat diminta (disarankan N = 4 untuk visualisasi yang optimal).
+3. Masukkan ukuran papan/jumlah Queen saat diminta (disarankan N = 4 untuk visualisasi yang optimal).
 
 Penulis
 
