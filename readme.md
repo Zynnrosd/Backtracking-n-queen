@@ -12,5 +12,4 @@ Masukkan ukuran papan/jumlah Queen saat diminta (disarankan N = 4 untuk visualis
 
 Penulis
 
-Nama    : M. Azyan Naufan Rosada
-NIM     : 21120123140146
+M. Azyan Naufan Rosada - 21120123140146
